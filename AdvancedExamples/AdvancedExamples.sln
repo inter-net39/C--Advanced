@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskVsThread", "TaskVsThread\TaskVsThread.csproj", "{890BBA69-8CEE-4DFE-B0F0-2129312379C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasurePerformance", "MeasurePerformance\MeasurePerformance.csproj", "{ACB7E831-4486-46A8-AE77-014C6C02310D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{890BBA69-8CEE-4DFE-B0F0-2129312379C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890BBA69-8CEE-4DFE-B0F0-2129312379C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890BBA69-8CEE-4DFE-B0F0-2129312379C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890BBA69-8CEE-4DFE-B0F0-2129312379C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB7E831-4486-46A8-AE77-014C6C02310D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB7E831-4486-46A8-AE77-014C6C02310D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB7E831-4486-46A8-AE77-014C6C02310D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB7E831-4486-46A8-AE77-014C6C02310D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60EB6BCF-DE59-467D-9CF4-CB09BBC4F976}
+	EndGlobalSection
+EndGlobal
